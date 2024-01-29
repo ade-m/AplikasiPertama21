@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">21Si2 - Aplikasi Pertama</string>
+    <string name="btnClear">Clear</string>
+    <string name="btnSave">Save</string>
+    <string name="submit">Submit</string>
+
+</resources>
