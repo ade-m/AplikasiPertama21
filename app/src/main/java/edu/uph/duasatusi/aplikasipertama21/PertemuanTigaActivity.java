@@ -25,7 +25,7 @@ public class PertemuanTigaActivity extends AppCompatActivity {
         txvIsi.setText("Selamat Datang");
         btnClear = (Button) findViewById(R.id.btnClear);
         btnClear.setBackgroundColor(Color.BLACK);
-
+        txvIsi.setText("");
         fab = findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
